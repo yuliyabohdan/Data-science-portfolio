@@ -1,11 +1,9 @@
 # Data-science-portfolio
 Projects from my Data science portfolio according the following topics:
 
-1. Python and Data Analysis Basics
-(The process and stages of the data scientist’s work — essential terms, methods, and tools of data analysis. Data preparation. Python programming language and its Pandas library. Jupyter development environment)
-2. Data Preprocessing
+1. Project 1 / Data Preprocessing
 (Learning how to deal with outliers, gaps, and duplicates while also converting different data formats)
-3. Research Data Analysis
+2. Project 2 / Research Data Analysis
 (Studying the basics of probability theory and statistics, using them to research basic data properties and find patterns, distributions, and anomalies. Learning about the SciPy and Matplotlib libraries. Drawing diagrams and completing tasks using graphical analysis)
 4. Statistical data analysis
 (Learning how to use statistical methods to analyze relations in data. Finding out what statistical significance, hypotheses, and confidence intervals are)
