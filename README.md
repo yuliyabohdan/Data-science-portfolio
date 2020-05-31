@@ -1,19 +1,13 @@
 # Data-science-portfolio
 Projects from my Data science portfolio according the following topics:
 
-1. Project 1 / Data Preprocessing
-(Learning how to deal with outliers, gaps, and duplicates while also converting different data formats)
-2. Project 2 / Research Data Analysis
-(Studying the basics of probability theory and statistics, using them to research basic data properties and find patterns, distributions, and anomalies. Learning about the SciPy and Matplotlib libraries. Drawing diagrams and completing tasks using graphical analysis)
-3. Project 3 / Statistical data analysis
-(Learning how to use statistical methods to analyze relations in data. Finding out what statistical significance, hypotheses, and confidence intervals are)
-4. Project 4 / Statistical data analysis
-5. Project 5 / Introduction to machine learning
-(Mastering the basics of machine learning. How the scikit-learn library works and how to use it in order to build your very first machine learning project)
-6. Project 6 / Supervised learning (classification and regression)
-(Diving into the most highly demanded area of machine learning: supervised learning. Understanding how to work with imbalanced data)
-7. Project 7 / Machine Learning for Business
-(Apply what you know about machine learning to meet the business needs. Discover business metrics, KPIs and A/B testing)
+1. Project 1 / Credit_scoring_preprocessing
+2. Project 2 / Real_estate_EDA
+3. Project 3 / Tariff_EDA (telecom project)
+4. Project 4 / E-comers_games (for planning advertising company)
+5. Project 5 / Chosing_best_tariff (telecom project)
+6. Project 6 / Prediction_production_volume (choosing best region for oil production)
+7. Project 7 / Industry_process_optimization (Optimization of getting gold from raw materials)
 8. Project 8 / Machine Learning for Business
 9. Project 9 / Linear Algebra
 (Taking a more in-depth look at some algorithms you’ve already learned and understanding how to apply them. Get a hands-on feel for the main concepts behind linear algebra: linear space, linear operators, and Euclidean space)
