@@ -13,6 +13,6 @@ Projects from my Data science portfolio according the following topics:
 10. Project 10 / Building_value_model (building a value model for used cars)
 11. Project 11 / Prediction_taxi_orders (predict the number of taxi orders)
 12. Project 12 / Texts (search for toxic comments)
-13. Project 13/ Airline_analitics (analyze passenger demand for flights to cities hosting major cultural festivals)
+13. Project 13/ Airline_analytics (analyze passenger demand for flights to cities hosting major cultural festivals)
 14. Project 14 / Computer_vision (Building a model that will determine the approximate age of a person from a photography)
 15. Project 15 / FINAL_PROJECT (Industry process optimization / building a model that predicts the temperature of steel for industry process optimization)
