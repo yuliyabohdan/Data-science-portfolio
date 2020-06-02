@@ -5,7 +5,7 @@ Projects from my Data science portfolio according the following topics:
 2. Project 2 / Real_estate_EDA
 3. Project 3 / Tariff_EDA (telecom project)
 4. Project 4 / E-commerce_games (for planning advertising company)
-5. Project 5 / Chosing_best_tariff (telecom project)
+5. Project 5 / Choosing_best_tariff (telecom project)
 6. Project 6 / Сustomer_churn_prediction
 7. Project 7 / Prediction_production_volume (choosing best region for oil production)
 8. Project 8 / Industry_process_optimization (Optimization of getting gold from raw materials)
